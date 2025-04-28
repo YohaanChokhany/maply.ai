@@ -24,7 +24,7 @@ An interactive job board application built with Next.js, TypeScript, and Google 
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/YohaanChokhany/maply.ai.git
 cd maply.ai
 ```
 
